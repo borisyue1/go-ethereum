@@ -1,0 +1,1 @@
+geth: geth --networkid 69 --rpc --rpccorsdomain="*"  --rpcapi "eth,net,web3,personal"
